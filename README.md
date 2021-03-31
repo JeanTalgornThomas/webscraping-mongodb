@@ -12,7 +12,10 @@ Nous avons travaillait sur Github pour le partage de données ainsi que de Jupyt
 **Imports liés à python** <br />
 
 ``` 
-
+import time
+import webdriver
+import Keys
+import pandas
 ```
 
 **Membres du groupe** <br />
